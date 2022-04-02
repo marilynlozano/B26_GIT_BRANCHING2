@@ -5,6 +5,7 @@ public class TEST1 {
         //first comment
         // second comment
         //third comment
+        //fourth comment
     }
 }
 
